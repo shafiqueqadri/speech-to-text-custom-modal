@@ -1,4 +1,4 @@
-const DOMAIN_NAME = 'http://192.168.0.244:8001'
+const DOMAIN_NAME = 'http://54.88.218.32:8001'
 export const environment = {
   production: false,
   base_url: DOMAIN_NAME,
